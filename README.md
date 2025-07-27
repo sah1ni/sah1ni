@@ -1,16 +1,19 @@
-## Hi there 👋
+# Merhaba, ben sah1ni! 👋
 
-<!--
-**sah1ni/sah1ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir öğrenciyim ve Linux konusunda oldukça deneyimliyim. Özellikle sistem yapılandırmaları, terminal kullanımı ve özelleştirmelerle ilgileniyorum. Kod yazmaktan ve yeni teknolojiler keşfetmekten keyif alıyorum.
 
-Here are some ideas to get you started:
+## 🚀 İlgi Alanlarım
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 Linux & açık kaynak dünyası
+- 💻 Sistem özelleştirme ve verimlilik
+- 🛠️ Terminal araçları ve script yazımı
+
+## 📦 Öne Çıkan Projem
+
+- [randomdotfiles](https://github.com/sah1ni/randomdotfiles): Kendi bilgisayarımı kişiselleştirmek için oluşturduğum ve sürekli geliştirdiğim dotfile’larım.
+
+## Hakkımda Kısa Bir Not
+
+Meraklı bir genç olarak yeni şeyler öğrenmeyi ve bildiklerimi paylaşmayı seviyorum. Daha fazlası için GitHub profilime göz atabilirsin!
+
+<!-- Profilimi ziyaret ettiğin için teşekkürler! -->
