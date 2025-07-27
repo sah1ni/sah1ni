@@ -1,5 +1,6 @@
 # Merhaba, ben sah1ni! 👋
 
+Herkese selam, 
 Ben bir öğrenciyim ve Linux konusunda oldukça deneyimliyim. Özellikle sistem yapılandırmaları, terminal kullanımı ve özelleştirmelerle ilgileniyorum. Kod yazmaktan ve yeni teknolojiler keşfetmekten keyif alıyorum.
 
 ## 🚀 İlgi Alanlarım
